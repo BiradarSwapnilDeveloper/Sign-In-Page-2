@@ -1,33 +1,28 @@
-#✨ Sign In Page UI
-A clean, modern, and responsive Sign In Page designed using HTML and CSS. This project is ideal for web development beginners or as a front-end login screen demo for websites and apps.
+# ✨ Sign In Page UI – A Clean, Modern Login Interface
 
+A modern, fully responsive Sign In Page built with HTML and CSS — ideal for beginners or as a front-end login screen demo for websites and apps.
 
-📌 Features
-🎨 Beautiful gradient background
-📱 Fully responsive design for all screen sizes
-🔒 Input fields for email and password
-🔁 "Forgot Password" link for recovery flow
-🚀 Stylish sign-in button
-🛫 Cool airplane image for modern design
-💬 Sample text section (footer-style)
-🛠️ Built With
+## 📌 Features
+- 🎨 Beautiful gradient background  
+- 📱 Fully responsive design  
+- 🔒 Email & password input fields  
+- 🔁 "Forgot Password" link  
+- 🚀 Stylish sign-in button  
+- 🛫 Cool airplane image for a modern touch  
+- 💬 Footer-style sample text section  
 
-HTML
-CSS
+## 🛠️ Built With
+**HTML, CSS**  
+100% custom — no frameworks used.
 
-No frameworks used — 100% custom design
+## 💡 Why This Project?
+Your login screen sets the first impression. This project helps you build a visually appealing, mobile-friendly login page that works for portfolios, practices, or real-world use.
 
-💡 Why This Project?
-The login screen is the first impression of your application. A well-designed Sign In Page builds trust and sets the tone for a great user experience. This project is built with that goal in mind — to provide a stylish, professional-looking, and mobile-friendly authentication interface.
-Whether you're building a portfolio, practicing front-end skills, or starting a real-world website, this Sign In Page is a perfect starting point
+## 📢 Credits
+Created by **Biradar Swapnil**  
+Feel free to use and customize it for personal or professional work!
 
-📢 Credits
-Created by Biradar Swapnil,
-Feel free to customize and use this for your personal or professional projects!
-
-🌐 Follow Me
-GitHub: https://github.com/BiradarSwapnilDeveloper
-LinkedIn: https://www.linkedin.com/in/biradar-swapnil-a81b6734b/
-Twitter: https://x.com/BiradarSwapnil8
-
-
+## 🌐 Connect with Me
+- GitHub: [@BiradarSwapnilDeveloper](https://github.com/BiradarSwapnilDeveloper)  
+- LinkedIn: [biradar-swapnil-a81b6734b](https://www.linkedin.com/in/biradar-swapnil-a81b6734b/)  
+- Twitter: [@BiradarSwapnil8](https://x.com/BiradarSwapnil8)
